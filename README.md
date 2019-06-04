@@ -11,11 +11,11 @@
 内容会以：文章、工具、新闻、视频等几大板块作为主要分类。  
 如果我的分享对你有所帮助，还请大家给个 ⭐️ 让更多的人知道[它](https://github.com/IAmYuanZhao/news)。  
 
-> 访问地址 : <https://news.weirongyue.com>
+> 访问地址 : <http://news.weirongyue.com>
 
-> RSS : <https://news.weirongyue.com/rss.xml>
+> RSS : <http://news.weirongyue.com/rss.xml>
 
-> GitHub : <https://github.com/IAmYuanZhao/news>
+> GitHub : <http://github.com/IAmYuanZhao/news>
 
 ### 阅读效果
 ![](https://ws1.sinaimg.cn/large/62bfa70bly1g0ocvsa4y7j226u1c2wv4.jpg)
