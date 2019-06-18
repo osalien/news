@@ -11,22 +11,22 @@ module.exports = {
   plugins: [
     ['@vuepress/google-analytics'],
     ['vuepress-plugin-rss-support', {
-      site_url: 'https://iamyuanzhao.github.io',
+      site_url: 'https://osalien.github.io',
       filter: page => /^\/201.+/.test(page.path),
       copyright: '2019每日分享',
       count: 60
     }],
     ['@vssue/vuepress-plugin-vssue', {
       platform: 'github',
-      owner: 'IAmYuanZhao',
-      repo: 'IAmYuanZhao.github.io',
+      owner: 'osalien',
+      repo: 'osalien.github.io',
       clientId: '587ed5cb99106cf20748',
       clientSecret: '0fd7334acacfa5b6dceb417eb89fc0b645baa882',
     }],
   ],
   base: '/',
   themeConfig: {
-    repo: "IAmYuanZhao/IAmYuanZhao.github.io",
+    repo: "osalien/osalien.github.io",
     lastUpdated: 'Last Updated',
     docsDir: 'docs',
     algolia: {
@@ -39,13 +39,18 @@ module.exports = {
     sidebar: [
       ["/", "1. 分享"],
       {
+        title: "2019年06月",
+        collapsable: false,
+        children: readFileList('2019', '06')
+      },
+      {
         title: "2019年05月",
         collapsable: false,
         children: readFileList('2019', '05')
       },
       {
         title: "2019年04月",
-        collapsable: false,
+        collapsable: true,
         children: readFileList('2019', '04')
       }, {
         title: "2019年03月",

@@ -8,6 +8,6 @@ git init
 git add -A
 git commit -m '每日分享'
 
-git push -f git@github.com:IAmYuanZhao/docker.git master
+git push -u git@github.com:osalien/docker.git master
 
 cd -

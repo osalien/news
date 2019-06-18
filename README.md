@@ -9,13 +9,13 @@
 
 这个项目会以前端技术体系为主要分享课题。  
 内容会以：文章、工具、新闻、视频等几大板块作为主要分类。  
-如果我的分享对你有所帮助，还请大家给个 ⭐️ 让更多的人知道[它](https://github.com/IAmYuanZhao/news)。  
+如果我的分享对你有所帮助，还请大家给个 ⭐️ 让更多的人知道[它](https://github.com/osalien/news)。  
 
-> 访问地址 : <http://news.weirongyue.com>
+> 访问地址 : <http://news.oszhaoyuan.com>
 
-> RSS : <http://news.weirongyue.com/rss.xml>
+> RSS : <http://news.oszhaoyuan.com/rss.xml>
 
-> GitHub : <http://github.com/IAmYuanZhao/news>
+> GitHub : <http://github.com/osalien/news>
 
 ### 阅读效果
 ![](https://ws1.sinaimg.cn/large/62bfa70bly1g0ocvsa4y7j226u1c2wv4.jpg)
@@ -29,7 +29,7 @@
 下载源码, 请执行下列命令：  
 ```bash
 # 克隆代码
-$ git clone git@github.com:IAmYuanZhao/news.git
+$ git clone git@github.com:osalien/news.git
 $ cd zaobao
 ```
 
